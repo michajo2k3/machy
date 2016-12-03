@@ -1,6 +1,7 @@
 # machy
 All purpose app for machinists.
 
+The backend will be written in Python3, with a web interface using Bottle.
 ### Goals:
 The goal of this app is to be a multi-purpose, machine shop reference and calculator to be used by machinists, engineers, and hobbyists.
 
